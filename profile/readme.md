@@ -122,6 +122,6 @@
 <img src = "https://github.com/user-attachments/assets/12a0b9d6-4607-4c7c-aa0b-7901ed6837f1">
 
 ## 🧑‍💻 아키텍처 ##
-<img src = "https://github.com/user-attachments/assets/4b9cff8d-9f4d-4e70-8f3b-914b255d0c9b">
+<img src = "https://github.com/user-attachments/assets/0b865cca-ed9f-445f-a097-65fc8b76fea8">
 
 
